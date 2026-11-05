@@ -5,7 +5,25 @@
 - 💻 Learning C++, Python, Blueprints, and AI-powered game systems.
 - 🧠 Building practical skills through hands-on projects and continuous learning.
 - 🤝 Open to collaborating on AI/ML, software development, and game development projects.
-- 🚀 Passionate about combining Artificial Intelligence with interactive gaming experiences..<br><br>Strong in Python, SQL, Generative AI, and Agentic AI.<br><br>Languages & Databases:<br>Python · JavaScript · SQL · MySQL · SQLite<br><br>AI / Data Science:<br>NumPy · Pandas · Matplotlib · PyTorch · Generative AI · Agentic AI<br><br>Frameworks & Tools:<br>Django · Apache Airflow · Apache Ant · Anaconda<br><br><br>Design & Productivity:<br>Figma · Adobe Creative Suite (After Effects, Acrobat)<br><br>Version Control & Collaboration:<br>Git · GitHub
+- 🚀 Passionate about combining Artificial Intelligence with interactive gaming experiences.
+
+💻 Languages & Databases:
+Python · C++ · JavaScript · SQL · MySQL · SQLite · HTML · CSS
+
+🤖 AI / Machine Learning:
+NumPy · Pandas · Matplotlib · Scikit-learn · PyTorch · Generative AI · Agentic AI
+
+⚙️ Frameworks & Tools:
+Django · Apache Airflow · Anaconda · VS Code · Jupyter Notebook
+
+🎮 Game Development & 3D Design:
+Unreal Engine 5 · C++ · Blueprints · Blender
+
+🎨 Design & Productivity:
+Figma · Adobe Creative Suite · After Effects · Acrobat
+
+🔗 Version Control & Collaboration:
+Git · GitHub
 
 
 ## 🌐 Socials:
