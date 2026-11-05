@@ -1,5 +1,11 @@
 # 💫 About Me:
-Currently working on AI/ML-based projects while strengthening my technical expertise through continuous learning.<br><br>Open to collaborating on Artificial Intelligence, software development, and coding-based projects.<br><br>Seeking guidance in placement preparation, real-world applications, and advanced programming.<br><br>Currently learning Machine Learning and modern AI technologies.<br><br>Strong in Python, SQL, Generative AI, and Agentic AI.<br><br>Languages & Databases:<br>Python · JavaScript · SQL · MySQL · SQLite<br><br>AI / Data Science:<br>NumPy · Pandas · Matplotlib · PyTorch · Generative AI · Agentic AI<br><br>Frameworks & Tools:<br>Django · Apache Airflow · Apache Ant · Anaconda<br><br><br>Design & Productivity:<br>Figma · Adobe Creative Suite (After Effects, Acrobat)<br><br>Version Control & Collaboration:<br>Git · GitHub
+- 🎓 Currently pursuing MCA in Artificial Intelligence & Machine Learning.
+- 🤖 Working on AI/ML projects and exploring Generative AI and Agentic AI.
+- 🎮 Exploring Game Development using Unreal Engine 5 and Blender.
+- 💻 Learning C++, Python, Blueprints, and AI-powered game systems.
+- 🧠 Building practical skills through hands-on projects and continuous learning.
+- 🤝 Open to collaborating on AI/ML, software development, and game development projects.
+- 🚀 Passionate about combining Artificial Intelligence with interactive gaming experiences..<br><br>Strong in Python, SQL, Generative AI, and Agentic AI.<br><br>Languages & Databases:<br>Python · JavaScript · SQL · MySQL · SQLite<br><br>AI / Data Science:<br>NumPy · Pandas · Matplotlib · PyTorch · Generative AI · Agentic AI<br><br>Frameworks & Tools:<br>Django · Apache Airflow · Apache Ant · Anaconda<br><br><br>Design & Productivity:<br>Figma · Adobe Creative Suite (After Effects, Acrobat)<br><br>Version Control & Collaboration:<br>Git · GitHub
 
 
 ## 🌐 Socials:
